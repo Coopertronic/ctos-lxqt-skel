@@ -1,0 +1,21 @@
+Notification {
+  background-color: #1c1c1c;
+  border:1px solid #2b2b2b;
+  border-radius:10px;
+  color: #ffffff;
+}
+
+QLabel {
+    color: #ffffff;
+}
+
+#closeButton {
+    qproperty-icon: url(icons/close.svg);
+    color: #ffffff;
+}
+
+#closeButton:hover {
+}
+
+#appLabel {
+}
